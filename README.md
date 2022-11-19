@@ -29,13 +29,13 @@ tugas2+uts2+uas2/3
 
 # Flowchart Pratikum 4
 
-<img src="f2.jpg">
+![F2](https://user-images.githubusercontent.com/115912116/202867477-43646b9b-bff1-404d-a27a-6dd28f29eb65.jpg)
 
 
 # TAMPILAN PROGRAM
 
 
-<img src="p1.png">
+![p1](https://user-images.githubusercontent.com/115912116/202867482-e894cefe-511f-4e39-9c1f-8cf1fe189ffd.PNG)
 
 ==== SELESAI ====
 
